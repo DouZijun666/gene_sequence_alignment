@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "dbname": "seq1",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "seq1.fasta",
+  "number-of-letters": 805,
+  "number-of-sequences": 1,
+  "last-updated": "2023-03-23T13:40:00",
+  "number-of-volumes": 1,
+  "bytes-total": 1001075,
+  "bytes-to-cache": 907,
+  "files": [
+    "seq1.pdb",
+    "seq1.phr",
+    "seq1.pin",
+    "seq1.pog",
+    "seq1.pos",
+    "seq1.pot",
+    "seq1.psq",
+    "seq1.ptf",
+    "seq1.pto"
+  ]
+}
